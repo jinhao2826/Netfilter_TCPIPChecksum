@@ -1,1 +1,0 @@
-cmd_/home/haojin/Documents/nf_test_module/nf_test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/haojin/Documents/nf_test_module/nf_test.ko /home/haojin/Documents/nf_test_module/nf_test.o /home/haojin/Documents/nf_test_module/nf_test.mod.o
